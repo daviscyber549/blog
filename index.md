@@ -20,6 +20,19 @@ This blog is where I share my learning, projects, insights, and the intersection
 
 
 
+## Skills
+### Technical
+- Python  
+- JavaScript  
+- Digital Forensics  
+- SQL  
+
+### Soft Skills
+- Research  
+- Problem‑solving  
+- Communication  
+
+
 
 <p>
   <a href="https://app.joinhandshake.com/profiles/u7ujtr" target="_blank">
