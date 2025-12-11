@@ -22,7 +22,7 @@ Originally from Jamaica, I carry a deep appreciation for culture, rhythm, and cr
 This blog is where I share my learning, projects, insights, and the intersections between technology, security, and creativity.
 </section>
 
-<section>
+
 <h2 class="title-orange">Skills</h2>
   
 ### Technical
@@ -35,7 +35,7 @@ This blog is where I share my learning, projects, insights, and the intersection
 - Research  
 - Problem‑solving  
 - Communication  
-</section>
+
 
 <section>
 <p>
