@@ -9,7 +9,7 @@ nav_order: 1
 
 
 <p align="center">
-  <img src="/assets/img/coolest-cat.jpg" class=>
+  <img src="/assets/img/coolest-cat.jpg" class="profile-circle">
 </p>
 
 <section>
