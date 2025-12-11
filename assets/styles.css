@@ -5,3 +5,46 @@
 .title-orange {
   color: #ff6600;
 }
+
+/* Modern header colors */
+h1, h2, h3 {
+  color: #1a73e8; /* Google blue – clean + modern */
+  font-weight: 600;
+}
+
+/* Softer body text */
+body {
+  color: #333;
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+/* Centered profile image styling */
+.profile-img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 12px;
+  max-width: 260px;
+}
+
+/* Clean section spacing */
+section {
+  margin-bottom: 2.5rem;
+}
+
+/* Modern link styling */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Subtle horizontal rule */
+hr {
+  border: 0;
+  height: 1px;
+  background: #e5e5e5;
+  margin: 2rem 0;
+}
