@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: home
 title: "Blog"
 permalink: /blog/
 nav_order: 2
