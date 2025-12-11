@@ -9,7 +9,7 @@ nav_order: 1
 
 
 <p align="center">
-  <img src="/assets/img/coolest-cat.jpg">
+  <img src="/assets/img/coolest-cat.jpg" class=>
 </p>
 
 <section>
