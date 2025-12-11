@@ -1,3 +1,18 @@
+title: "Dwequieve Davis"
+description: "Cybersecurity student | Digital Forensics | Blog + Bio"
 theme: minima
 markdown: kramdown
 
+# Navigation order (optional but helpful)
+# Minima uses page front‑matter, but this keeps things organized
+collections:
+  posts:
+    output: true
+
+# Social links (Handshake added as a custom link)
+minima:
+  social_links:
+    - { platform: handshake, user_url: "https://app.joinhandshake.com/stu/YOUR-HANDSHAKE-ID" }
+
+# Optional: show excerpts on blog list
+show_excerpts: true
