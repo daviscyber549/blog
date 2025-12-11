@@ -33,9 +33,7 @@ body {
   width: 250px;        /* adjust size as needed */
   height: 250px;       /* must match width for a perfect circle */
   object-fit: cover;   /* keeps the face centered */
-  border-radius: 50%;
-  border: 3px solid #e5e5e5;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);/* makes the circle */
+  border-radius: 50%;  /* makes the circle */
 }
 
 
