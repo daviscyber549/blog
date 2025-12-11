@@ -14,5 +14,11 @@ minima:
   social_links:
     - { platform: handshake, user_url: "https://app.joinhandshake.com/stu/YOUR-HANDSHAKE-ID" }
 
+minima:
+  skin: classic
+  custom_css:
+    - /assets/css/custom.css
+
+
 # Optional: show excerpts on blog list
 show_excerpts: true
