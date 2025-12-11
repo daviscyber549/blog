@@ -4,7 +4,9 @@ title: "Bio"
 nav_order: 1
 ---
 
-# About Me
+<h1 class="title-blue">About Me</h1>
+
+
 
 <p align="center">
   <img src="/assets/img/coolest-cat.jpg" width="250">
@@ -20,7 +22,7 @@ This blog is where I share my learning, projects, insights, and the intersection
 
 
 
-## Skills
+<h2 class="title-orange">Skills</h2>
 ### Technical
 - Python  
 - JavaScript  
