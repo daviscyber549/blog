@@ -24,6 +24,7 @@ This blog is where I share my learning, projects, insights, and the intersection
 
 <section>
 <h2 class="title-orange">Skills</h2>
+  
 ### Technical
 - Python  
 - JavaScript  
