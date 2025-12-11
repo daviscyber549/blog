@@ -7,4 +7,5 @@ nav_order: 2
 
 # Blog
 
-Here are my latest posts:
+Welcome to my blog. Here are my latest posts.
+<hr>
