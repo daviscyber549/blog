@@ -12,6 +12,6 @@ minima:
   custom_css:
     - /assets/css/custom.css
   social_links:
-    - { platform: handshake, user_url: "https://app.joinhandshake.com/stu/YOUR-HANDSHAKE-ID" }
+    - { platform: handshake, user_url: "https://app.joinhandshake.com/profiles/u7ujtr" }
 
 show_excerpts: true
